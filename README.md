@@ -17,3 +17,16 @@ npm install
 
 3. Run tests
 npm test
+
+## Tests
+
+- Written in **TypeScript** using **Jest**.
+
+Covers:
+
+- Sample input/output from the challenge
+- Scent behavior to prevent repeated losses
+- Edge detection at the grid borders
+- Square paths returning to the start position
+
+Test file: `tests/martian-robots.spec.ts`
