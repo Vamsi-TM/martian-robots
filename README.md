@@ -1,2 +1,19 @@
-# martian-robots
-This project implements Martian Robots coding challenge
+# Martian Robots (TypeScript)
+
+This project implements the **Martian Robots** coding challenge.  
+Robots move on a rectangular grid on Mars based on input instructions, and may be lost if they move off the grid — unless a "scent" prevents future robots from being lost in the same spot.
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
+```bash
+git clone git@github.com:Vamsi-TM/martian-robots.git
+cd martian-robots
+
+2. Install dependencies
+npm install
+
+3. Run tests
+npm test
